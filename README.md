@@ -7,6 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Local & Private](https://img.shields.io/badge/local-%26%20private-brightgreen)](#security-privacy)
 [![Glama MCP](https://glama.ai/mcp/servers/timgordontg/engrim/badges/score.svg)](https://glama.ai/mcp/servers/timgordontg/engrim)
+[![Featured on BrandifyDomains](https://img.shields.io/badge/Featured%20on-BrandifyDomains-6366f1?style=for-the-badge&logo=github)](https://brandifydomains.com/trendingnow/engrim)
 
 **The Universal Cross-Model & Cross-Agent Episodic Memory Standard.**
 
